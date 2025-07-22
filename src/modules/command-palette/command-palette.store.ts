@@ -48,7 +48,7 @@ export const useCommandPaletteStore = defineStore('command-palette', () => {
     },
     {
       name: 'Github repository',
-      href: 'https://github.com/CorentinTh/it-tools',
+      href: 'https://github.com/xOS/it-tools',
       category: 'External',
       description: 'View the source code of it-tools on Github.',
       keywords: ['github', 'repo', 'repository', 'source', 'code'],
